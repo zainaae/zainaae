@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainaae" alt="zainaae" /></a> </p>
 
-- 🔭 I’m currently working on **dealing multiple projects**
+- 🔭 I’m currently working on **Dealing multiple projects**
 
 - 🌱 I’m currently learning **Automations in AI, and how the agents evolving**
 
